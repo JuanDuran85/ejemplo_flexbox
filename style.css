@@ -1,3 +1,26 @@
-.container {
-    display: flexbox;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.conteiner {
+    width: 80%;
+    height: 500px;
+    margin: 50px auto;
+    background-color: burlywood;
+}
+
+.box {
+    background-color: deeppink;
+    width: 200px;
+    height: 100px;
+    color: black;
+    margin: 30px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
 }
