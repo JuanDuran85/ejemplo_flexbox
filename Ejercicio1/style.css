@@ -9,9 +9,10 @@
 
 .conteiner {
     width: 80%;
-    height: 500px;
+    height: 100%;
     margin: 50px auto;
     background-color: burlywood;
+    display: flex; 
 }
 
 .box {
