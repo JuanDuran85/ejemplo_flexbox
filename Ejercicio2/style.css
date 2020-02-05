@@ -31,5 +31,5 @@
 
 .otro {
     align-self: stretch;
-    height: auto;
+    height: auto; /* aling-self siempre debe estar acompañado de height auto. */
 }
