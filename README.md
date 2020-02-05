@@ -11,3 +11,14 @@ Para activar la propiedad de flex, se debe utilizar un contenedor principal y a 
 * [align-items](https://www.w3schools.com/css/css3_flexbox.asp#align-items): La propiedad align-items se usa para alinear los elementos flexibles verticalmente.
 * [align-content](https://www.w3schools.com/css/css3_flexbox.asp#align-content): La propiedad align-content se usa para alinear las líneas flexibles.
 
+
+## Child Elements "elementos secundarios" (Items)
+
+Los elementos secundarios directos de un contenedor flexible se convierten automáticamente en elementos flexibles (flex). Siendo estos:
+
+* [order](https://www.w3schools.com/css/css3_flexbox.asp#order): La propiedad order especifica el orden de los elementos flexibles.
+* [flex-grow](https://www.w3schools.com/css/css3_flexbox.asp#flex-grow): La propiedad de crecimiento flexible especifica cuánto crecerá un elemento flexible en relación con el resto de los elementos flexibles.
+* [flex-shrink](https://www.w3schools.com/css/css3_flexbox.asp#flex-shrink): La propiedad de contracción flexible especifica cuánto se reducirá un elemento flexible en relación con el resto de los elementos flexibles
+* [flex-basis](https://www.w3schools.com/css/css3_flexbox.asp#flex-basis): La propiedad de base flexible especifica la longitud inicial de un elemento flexible.
+* [flex](https://www.w3schools.com/css/css3_flexbox.asp#flex): La propiedad flex es una propiedad abreviada de las propiedades de crecimiento flexible, contracción flexible y base flexible.
+* [align-self](https://www.w3schools.com/css/css3_flexbox.asp#align-self): La propiedad align-self especifica la alineación para el elemento seleccionado dentro del contenedor flexible. Así mismo, esta propiedad anula la alineación predeterminada establecida por la propiedad align-items del contenedor.
