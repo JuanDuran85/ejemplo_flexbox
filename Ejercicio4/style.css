@@ -1,0 +1,25 @@
+body {
+    background-color: #CCC;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    align-items: center;
+    background-color: #FFF;
+    display: flex;
+    height: 294px;
+    justify-content: center;
+    margin: 0 auto;
+    width: 405px;
+
+  }
+
+  .button {
+    background-color: #47F8E1;
+    border: 0;
+    color: #FFF;
+    font-family: monospace;
+    font-size: 2rem;
+    padding: 20px 40px;
+  }
